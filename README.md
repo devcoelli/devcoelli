@@ -4,7 +4,7 @@
 <a href="https://devcoelli.github.io/about/index.html">
 <img src="https://img.shields.io/static/v1?label=Overview&message=devcoelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 
-<p>Tecnólogo em Marketing<br/> Criador de sites em Wordpress</p>
+<p>Tecnólogo em Marketing<br/> Dev Wordpress</p>
 
 
 ### ⚙️ GitHub Analytics
