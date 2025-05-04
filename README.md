@@ -1,6 +1,6 @@
 <img src="https://github.com/devcoelli/imagens/blob/main/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
-### Olá, meu nome é Rodrigo Luís Coelli!
+### My name is Rodrigo Luís Coelli!
 <a href="https://devcoelli.github.io/about/index.html">
 <img src="https://img.shields.io/static/v1?label=Overview&message=devcoelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 
