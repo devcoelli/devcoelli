@@ -1146,33 +1146,30 @@
         <section class="mapbox" data-mapbox>
           <figure>
             <iframe
-              src="https://maps.app.goo.gl/dwLu1BqQwbBUeViY7"
+              src="https://www.google.com/maps/place/Caxias+do+Sul,+RS/data=!4m2!3m1!1s0x951ebcd16435f073:0xf514f707b5773bf4?sa=X&ved=1t:242&ictx=111"
               width="400" height="300" loading="lazy"></iframe>
           </figure>
         </section>
 
-        <section class="contact-form">
+       <section class="contact-form">
 
-          <h3 class="h3 form-title">Contact Form</h3>
+  <h3 class="h3 form-title">Contact Form</h3>
 
-          <form action="dev.coelli@gmail.com" class="form" data-form>
+  <form action="https://formspree.io/f/mzzrlvrg" method="POST" class="form" data-form>
+    <div class="input-wrapper">
+      <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+      <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+    </div>
 
-            <div class="input-wrapper">
-              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+    <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
 
-              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
-            </div>
+    <button class="form-btn" type="submit">
+      <ion-icon name="paper-plane"></ion-icon>
+      <span>Send Message</span>
+    </button>
+  </form>
 
-            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
-
-            <button class="form-btn" type="submit" disabled data-form-btn>
-              <ion-icon name="paper-plane"></ion-icon>
-              <span>Send Message</span>
-            </button>
-
-          </form>
-
-        </section>
+</section>
 
       </article>
 
