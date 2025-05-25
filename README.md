@@ -6,7 +6,8 @@
 
 <p>
 Marketing Technologist<br/>
-Wordpress Developer</p>
+Wordpress Developer<br/>
+Experience in logistics</p>
 
 ### ⚙️ GitHub Analytics
 
