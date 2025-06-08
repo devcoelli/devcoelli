@@ -32,7 +32,7 @@
 
 ## 🧾 Certificações
 
-[![AWS Certified](https://camaradecontratos.com.br/sistemav2/php/validar.php?codigo=55B2-2E41-A533-B2A9-B040-CA56-4E6F-AAEA)
+[![AWS Certified] (https://camaradecontratos.com.br/sistemav2/php/validar.php?codigo=55B2-2E41-A533-B2A9-B040-CA56-4E6F-AAEA)
 
 ---
 
