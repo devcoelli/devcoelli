@@ -1,7 +1,6 @@
-<div style="display:inline-block">
-<img align="right" height="200em" style="border-radius:50%;" src="https://github.com/devcoelli/imagens/raw/main/computer-illustration.png"/>
-<h1 align="left">Me Chamo Rodrigo Luís Coelli</h1>
-</div>
+<img src="https://github.com/devcoelli/imagens/blob/main/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
+
+### Me chamo Rodrigo Luís Coelli
 
 ---
 
