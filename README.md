@@ -16,10 +16,13 @@
 ## 🧪 Experiência Profissional
 
 **🔸 Randon Impl Caxias** — *Logistica (Jul 2004 - Atual)*  
-> Contribui para o planejamento, execução e controle das operações relacionadas ao transporte, armazenamento e distribuição de produtos. 
+> Contribui para o planejamento, execução e controle das operações relacionadas ao transporte, armazenamento e distribuição de produtos.<br>
+![SAP](https://img.shields.io/badge/SAP-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
+![Logistica](https://img.shields.io/badge/Logistica-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
+![WMS](https://img.shields.io/badge/WMS-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
 
 **🔹 UCS (Hospital Geral)** — *Faturamento (Fev 1999 - Maio 2003)*  
-> Passagem por contas a pagar e Faturamento
+> Passagem por Contas a pagar e Faturamento
 
 ---
 
@@ -43,18 +46,13 @@
 - **Millanos** – Mebsite (https://millanos.com.br/)
 ---
 
-## 🚀 Tech Stack
+## 🚀 Certificados
 
-![SAP](https://img.shields.io/badge/SAP-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-47A248?style=for-the-badge&logo=Wordpress&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFA500?style=for-the-badge)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-0096D6?style=for-the-badge&logo=apache&logoColor=white)
+
+![Gestão de Pessoas](https://img.shields.io/badge/Gestão_de_Pessoas-336791?style=for-the-badge&ogoColor=white)
+![Negociação_empresarial_/_Técnica_de_vendas](https://img.shields.io/badge/Negociação_empresarial_/_Técnica_de_vendas-47A248?style=for-the-badge&logoColor=white)
+![Relações_Humanas_/_Liderança](https://img.shields.io/badge/Relações_Humanas_/_Liderança-FF9900?style=for-the-badge&logoColor=white)
+
 
 ---
 
