@@ -9,7 +9,7 @@
 🧠 **Resumo:**
 - Experiência Logística (com +20 anos)
 - Contas a pagar e faturamento
-- Desenvolvimento e matutenção de websites
+- Desenvolvimento e manutenção de websites
 
 ---
 
