@@ -38,16 +38,16 @@
 
 ## 📦 Projetos Relevantes
 
-- **LSBaterias** – Website 
-- **Iniciar-Ar condicionado** – Website
-- **Millanos** – MWebsite
+- **LSBaterias** – Website (https://lsbaterias.com.br/)
+- **Iniciar-Ar condicionado** – Website (https://iniciar.inf.br/)
+- **Millanos** – Mebsite (https://millanos.com.br/)
 ---
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-47A248?style=for-the-badge&logo=Wordpress&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
