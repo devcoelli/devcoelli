@@ -118,10 +118,6 @@
 
 ## 🌐 Onde Me Encontrar
 
-<a href="http://bio.link/coelli" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=dio&logoColor=white"/>
+<a href="https://coelli.gitlab.io/site/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/gitlab-0077B5?style=for-the-badge&logo=dio&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/rodrigocoelli/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
