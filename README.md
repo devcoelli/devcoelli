@@ -125,5 +125,3 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-📫 **Email**: [dev.coelli@gmail.com](mailto:dev.coelli@gmail.com)  
-📞 **WhatsApp**: [+55 48 99139 2754](https://wa.me/5548991392754)
