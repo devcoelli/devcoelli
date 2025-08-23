@@ -6,37 +6,6 @@
 
 🎯 **Tecnólogo em Marketing** com foco em estratégias digitais.
 
-🧠 **Resumo:**
-- Experiência Logística (com +20 anos)
-- Contas a pagar e faturamento
-- Desenvolvimento e manutenção de websites
-
----
-
-## 🧪 Experiência Profissional
-
-**🔸 Randon Impl Caxias** — *Logistica (Jul 2004 - Atual)*  
-> Contribui para o planejamento, execução e controle das operações relacionadas ao transporte, armazenamento e distribuição de produtos.<br>
-![SAP](https://img.shields.io/badge/SAP-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
-![Logistica](https://img.shields.io/badge/Logistica-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
-![WMS](https://img.shields.io/badge/WMS-3776AB?style=for-the-badge&logo=SAP&logoColor=white)
-
-**🔹 UCS (Hospital Geral)** — *Faturamento (Fev 1999 - Maio 2003)*  
-> Passagem por Contas a pagar e Faturamento
-
----
-
-## 🎓 Formação
-
-- **Tecnologia em Marketing** – UNIFACVEST (2018-2021)  
-
-
----
-
-## 🧾 Certificações
-
-[Marketing Certified] (https://camaradecontratos.com.br/sistemav2/php/validar.php?codigo=55B2-2E41-A533-B2A9-B040-CA56-4E6F-AAEA)
-
 ---
 
 ## 📦 Projetos Relevantes
@@ -48,7 +17,7 @@
 
 ## 🚀 Certificados
 
-
+![Marketing Certified] (https://camaradecontratos.com.br/sistemav2/php/validar.php?codigo=55B2-2E41-A533-B2A9-B040-CA56-4E6F-AAEA)_(https://img.shields.io/badge/tecnologo_em_marketing-336791?style=for-the-badge&ogoColor=white)
 ![Gestão de Pessoas](https://img.shields.io/badge/Gestão_de_Pessoas-336791?style=for-the-badge&ogoColor=white)
 ![Negociação_empresarial_/_Técnica_de_vendas](https://img.shields.io/badge/Negociação_empresarial_/_Técnica_de_vendas-47A248?style=for-the-badge&logoColor=white)
 ![Relações_Humanas_/_Liderança](https://img.shields.io/badge/Relações_Humanas_/_Liderança-FF9900?style=for-the-badge&logoColor=white)
