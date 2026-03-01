@@ -1,31 +1,39 @@
-<img src="https://github.com/devcoelli/imagens/blob/main/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
+<img src="https://github.com/devcoelli/imagens/blob/main/computer-illustration.png" 
+     alt="Ilustração de computador"
+     width="200px"
+     align="right">
 
-### Me chamo Rodrigo Luís Coelli
+# 👋 Olá! Eu sou Rodrigo Luís Coelli
 
----
-
-🎯 **Tecnólogo em Marketing** com foco em estratégias digitais.
+🎯 **Tecnólogo em Marketing** com foco em estratégias digitais e presença online.
 
 ---
 
 ## 📦 Projetos Relevantes
 
-- **LSBaterias** – Website (https://lsbaterias.com.br/)
-- **Iniciar-Ar condicionado** – Website (https://iniciar.inf.br/)
-- **Millanos** – Mebsite (https://millanos.com.br/)
+🔹 **LSBaterias**  
+https://lsbaterias.com.br/
+
+🔹 **Iniciar – Ar Condicionado**  
+https://iniciar.inf.br/
+
+🔹 **Millanos**  
+https://millanos.com.br/
+
 ---
 
 ## 🚀 Certificados
 
-
-![Gestão de Pessoas](https://img.shields.io/badge/Gestão_de_Pessoas-336791?style=for-the-badge&ogoColor=white)
-![Negociação_empresarial_/_Técnica_de_vendas](https://img.shields.io/badge/Negociação_empresarial_/_Técnica_de_vendas-47A248?style=for-the-badge&logoColor=white)
-![Relações_Humanas_/_Liderança](https://img.shields.io/badge/Relações_Humanas_/_Liderança-FF9900?style=for-the-badge&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Gestão_de_Pessoas-336791?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Negociação_Empresarial_/_Técnicas_de_Vendas-47A248?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relações_Humanas_/_Liderança-FF9900?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
@@ -35,12 +43,12 @@
   </a>
 </p>
 
---- 
-
-
+---
 
 ## 🌐 Onde Me Encontrar
 
-<a href="https://coelli.gitlab.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/gitlab-0077B5?style=for-the-badge&logo=dio&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://coelli.gitlab.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-Perfil-0077B5?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+</p>
