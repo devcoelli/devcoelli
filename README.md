@@ -30,14 +30,7 @@
 <table>
   <tr>
    
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=devcoelli&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devcoelli&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
   </tr>
 </table>
 
